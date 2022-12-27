@@ -1,18 +1,18 @@
 # This Makefile is badly written at best
 # TODO: Rewrite this Makefile to be more general
 
-CC = cc
+C = cc
 CFLAGS = -Wall -g
 
 SRC = src/cat.c \
       src/true.c \
-      src/false.c \
+dddddd      src/false.c \
       src/yes.c \
       src/wc.c \
       src/unlink.c \
       src/rm.c \
       src/ls.c \
-      src/linked_list.c \
+     hello anusga  src/linked_list.c \
       src/touch.c \
       src/whoami.c \
       src/pwd.c \
