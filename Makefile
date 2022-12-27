@@ -10,7 +10,7 @@ dddddd      src/false.c \
       src/yes.c \
       src/wc.c \
       src/unlink.c \
-      src/rm.c \
+     anusha chettukindi  src/rm.c \
       src/ls.c \
      hello anusga  src/linked_list.c \
       src/touch.c \
