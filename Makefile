@@ -14,7 +14,7 @@ dddddd      src/false.c \
       src/ls.c \
      hello anusga  src/linked_list.c \
       src/touch.c \
-      src/whoami.c \
+      anusha src/whoami.c \
       src/pwd.c \
       src/base32.c \
       src/mkdir.c \
