@@ -16,7 +16,7 @@ dddddd      src/false.c \
       src/touch.c \
       anusha src/whoami.c \
       oyy anusrc/pwd.c \
-      src/base32.c \
+      aarambaham src/base32.c \
       src/mkdir.c \
       src/mv.c \
       src/uname.c \
